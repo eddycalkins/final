@@ -1,0 +1,47 @@
+
+.header-font {
+  font-family: "Vollkorn SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p {
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h6{
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ a {
+ color:#056AB7;
+}
+
+a:hover {
+color: #e6db10;
+}
+
+a{
+ text-decoration: underline;	
+ color: #E43730;	
+}
+
+.footerStyle {
+  background-color: #E43730;
+  padding: 12px;
+  height: 50px;
+  text-align: center;
+  margin-top: 50px;
+
+
+
+
+
+
+
